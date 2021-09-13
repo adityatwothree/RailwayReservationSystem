@@ -1,0 +1,6 @@
+132 Bangalore-to-Mumbai 06:30 Bangalore-hubli-badami-solapur-pune-surat-anand-mumbai
+124 Bangalore-to-Kolkata 12:00 bangalore-bhidi-tumkur-panipat-kolkata
+409 Bangalore-to-Hyderabad 14:30 bangalore-secundrabad-jhansi-hyderabad
+595 Bangalore-to-Delhi 18:00 bangalore-raichu-jodhpur-faridabad-gaziabad-delhi
+157 Bangalore-to-Chennai 20:00 bangalore-amit-naveen-karthik-hubli-chennai
+666 Ahmedabad-to-delhi 1:00 ahemdabad-surat-dosa-jodhpur-faridabad-padampur-delhi
